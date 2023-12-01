@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Maxime</h1>
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working at DELTA RM 
 
-- 🌱 I’m currently coding with : PHP / Symfony / ReactJS / MeteorJS / JavaScript / Angular / TypeScript / Docker
+- 🌱 I’m currently coding with : ReactJS / MeteorJS / JavaScript / Angular / TypeScript / Docker / PHP / Symfony
 
-- 🤝 I’m looking to join a team
+- 🤝 I’m looking to join a team / opportunities
 
 - 📫 How to reach me **maxime.bourdin.tic@gmail.com**
 
