@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at DELTA RM 
 
-- 🌱 I’m currently coding with : ReactJS / MeteorJS / JavaScript / Angular / TypeScript / Docker / PHP / Symfony
+- 🌱 I’m currently working with : ReactJS / MeteorJS / JavaScript / TypeScript / Cypress tests
 
 - 🤝 I’m looking to join a team / opportunities
 
@@ -46,15 +46,19 @@
 
 <h3>Library / Framework:</h3>
 <p>
+  <a target="_blank" href="https://cypress.io/">
+    <img src="https://user-images.githubusercontent.com/2801156/153322291-8b186487-5127-48f7-aa6d-b0ef350f8575.png" alt="Cypress Framework" width="40" height="40"/>
+  </a>
   <a target="_blank" href="https://reactjs.org/">
     <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" alt="ReactJS Library" width="50" height="40"/>
   </a>
-  <!--<a target="_blank" href="https://angular.io/">
+  <a target="_blank" href="https://angular.io/">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png" alt="Angular Framework" width="40" height="40"/>
-  </a>-->
+  </a>
   <a target="_blank" href="https://symfony.com/">
     <img src="https://stefaniedrost.com/assets/images/logo_symfony.png" alt="Symfony Framework" width="40" height="40"/>
   </a>
+  
 </p>
 <!--
 **mbourd/mbourd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
