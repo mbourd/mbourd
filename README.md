@@ -1,10 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Maxime</h1>
 
-- 🔭 I’m currently working at DELTA RM 
+- 🌱 I’m currently working with : ReactJS / Next.js / JavaScript / TypeScript / Cypress tests
 
-- 🌱 I’m currently working with : ReactJS / MeteorJS / JavaScript / TypeScript / Cypress tests
-
-- 🤝 I’m looking to join a team / opportunities
+- 🤝 I’m looking for a new position as Frontend or Full-stack
 
 - 📫 How to reach me **maxime.bourdin.tic@gmail.com**
 
