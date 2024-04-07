@@ -34,9 +34,6 @@
   <a target="_blank" href="https://www.typescriptlang.org/">
     <img src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/230/formation-typescript.png" alt="TypeScript Language" width="40" height="40"/>
   </a>
-  <a target="_blank" href="https://www.php.net/">
-    <img src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" alt="PHP Language" width="40" height="40"/>
-  </a>
   <a target="_blank" href="https://www.autohotkey.com/">
     <img src="https://logodix.com/logo/2183152.png" alt="AHK Language" width="40" height="40"/>
   </a>
@@ -50,11 +47,11 @@
   <a target="_blank" href="https://reactjs.org/">
     <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" alt="ReactJS Library" width="50" height="40"/>
   </a>
+  <a target="_blank" href="https://nextjs.org/">
+    <img src="https://img.stackshare.io/service/5936/nextjs.png" alt="Next.js Framework" width="50" height="40"/>
+  </a>
   <a target="_blank" href="https://angular.io/">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-logo-png-transparent.png" alt="Angular Framework" width="40" height="40"/>
-  </a>
-  <a target="_blank" href="https://symfony.com/">
-    <img src="https://stefaniedrost.com/assets/images/logo_symfony.png" alt="Symfony Framework" width="40" height="40"/>
   </a>
   
 </p>
